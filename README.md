@@ -22,9 +22,20 @@ This repository contains the most recent versions of all projects and peer asses
 ### 4. Applied Text Mining in Python
 
 - [Working with Text](Applied%20Text%20Mining/Week1%20-%20Working%20with%20Text%20in%20Python)
+
+  Perform text cleaning and write regular expressions to find textual patterns
+  
 - [Basic Natural Language Processing](Applied%20Text%20Mining/Week2%20-%20Basic%20Natural%20Language%20Processing)
+
+  Build two spelling recommender systems based on jaccard distance and edit distance.
+
 - [Classification of Text](Applied%20Text%20Mining/Week3%20-%20Classification%20of%20Text)
+
+  Explore text message data and create a model to classify message as spam or not.
+
 - [Topic Modeling](Applied%20Text%20Mining/Week4%20-%20Topic%20Modeling)
+
+  
 
 ### 5. Applied Social Network Analysis in Python
 
