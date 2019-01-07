@@ -19,9 +19,20 @@ This repository contains the most recent versions of all projects and peer asses
 ### Applied Machine Learning in Python
 
 - [Intro to Scikit Learn](Applied%20Machine%20Learning/Week1%20-%20Intro%20to%20SciKit%20Learn)
+
+  Build and evaluate basic k-nearest neighbours classifier on a breast cancer dataset.
+
 - [Supervised Machine Learning, Part 1](Applied%20Machine%20Learning/Week2%20-%20Supervised%20Machine%20Learning%201)
+
+  Understand the strengths and weaknesses of a particular supervised learning method and apply techniques like regularization, feature scaling and cross validation to avoid common pitfalls.
+
 - [Evaluation](Applied%20Machine%20Learning/Week3%20-%20Evaluation)
-- [Supervised Machine Learning, Part 2](Applied%20Machine%20Learning/Week2%20-%20Supervised%20Machine%20Learning%202)
+
+  Optimize a machine learning algorithm using a specific evaluation metric appropriate for a given task.
+
+- [Supervised Machine Learning, Part 2](Applied%20Machine%20Learning/Week4%20-%20Supervised%20Machine%20Learning%202)
+
+  Projecy to determine whether a given blight ticket (fine) of property maintainance in City of Detroit will be paid on time.
 
 ### Applied Text Mining in Python
 
