@@ -40,6 +40,17 @@ This repository contains the most recent versions of all projects and peer asses
 ### 5. Applied Social Network Analysis in Python
 
 - [Basics on NetworkX](Applied%20Social%20Network%20Analysis%20in%20Python/Week1%20-%20Basics%20on%20NetworkX)
+
+  Construct and manipulate networks of different types using different network classes and node and edge attributes in NetworkX.
+  
 - [Network Connectivity](Applied%20Social%20Network%20Analysis%20in%20Python/Week2%20-%20Network%20Connectivity)
+
+  Process and analyze an internal communication network between employees of mid-sized manufacturing company.
+  
 - [Influence Measures and Network Centralization](Applied%20Social%20Network%20Analysis%20in%20Python/Week3%20-%20Influence%20Measures%20and%20Network%20Centralization)
+
+  Explore measures of centrality on two networks i.e, friendship and blog network.
+
 - [Network Evolution](Applied%20Social%20Network%20Analysis%20in%20Python/Week4%20-%20Network%20Evolution)
+
+  Work with a company email network and predict the probability of node receiving management level salary. Also, use the current network to predict the future connections.
