@@ -2,24 +2,28 @@
 
 This repository contains the most recent versions of all projects and peer assessments for the [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) Coursera specialization.
 
-### 1. Introduction to Data Science in Python
+### Applied Plotting, Charting & Data Representation in Python
 
-
-### 2. Applied Plotting, Charting & Data Representation in Python
-
-- [Working with Text](Applied%20Text%20Mining/Week1%20-%20Working%20with%20Text%20in%20Python)
 - [Basic Charting](Applied%20Plotting%20Charting/Week2%20-%20Basic%20Charting)
+
+  Manipulate data and demonstrate procedure of composit charts.
+
 - [Charting Fundamentals](Applied%20Plotting%20Charting/Week3%20-%20Charting%20Fundamentals)
+
+  Create insightful plots, build complex features using artist layer and add animation and interactivity to visualizations. 
+
 - [Applied Visualizations](Applied%20Plotting%20Charting/Week4%20-%20Applied%20Visualizations)
 
-### 3. Applied Machine Learning in Python
+  Project stating a research question and visuals addressing it.
+
+### Applied Machine Learning in Python
 
 - [Intro to Scikit Learn](Applied%20Machine%20Learning/Week1%20-%20Intro%20to%20SciKit%20Learn)
 - [Supervised Machine Learning, Part 1](Applied%20Machine%20Learning/Week2%20-%20Supervised%20Machine%20Learning%201)
 - [Evaluation](Applied%20Machine%20Learning/Week3%20-%20Evaluation)
 - [Supervised Machine Learning, Part 2](Applied%20Machine%20Learning/Week2%20-%20Supervised%20Machine%20Learning%202)
 
-### 4. Applied Text Mining in Python
+### Applied Text Mining in Python
 
 - [Working with Text](Applied%20Text%20Mining/Week1%20-%20Working%20with%20Text%20in%20Python)
 
@@ -37,7 +41,7 @@ This repository contains the most recent versions of all projects and peer asses
 
   Build a Gensim's LDA (Latent Dirichlet Allocation) model to model topics in news data and extract 10 topics.
 
-### 5. Applied Social Network Analysis in Python
+### Applied Social Network Analysis in Python
 
 - [Basics on NetworkX](Applied%20Social%20Network%20Analysis%20in%20Python/Week1%20-%20Basics%20on%20NetworkX)
 
