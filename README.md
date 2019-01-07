@@ -35,7 +35,7 @@ This repository contains the most recent versions of all projects and peer asses
 
 - [Topic Modeling](Applied%20Text%20Mining/Week4%20-%20Topic%20Modeling)
 
-  
+  Build a Gensim's LDA (Latent Dirichlet Allocation) model to model topics in news data and extract 10 topics.
 
 ### 5. Applied Social Network Analysis in Python
 
