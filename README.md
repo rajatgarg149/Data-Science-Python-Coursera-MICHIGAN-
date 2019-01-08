@@ -1,4 +1,4 @@
-# Applied Data Science with Python Specialization [Certificate](https://github.com/rajatgarg149/Data-Science-Python-Coursera-MICHIGAN-/blob/master/Data%20Science%20Certificate)
+# Applied Data Science with Python Specialization [Certificate](https://github.com/rajatgarg149/Data-Science-Python-Coursera-MICHIGAN-/blob/master/Data%20Science%20Certificate.pdf)
 
 This repository contains the most recent versions of all projects and peer assessments for the [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) Coursera specialization.
 
