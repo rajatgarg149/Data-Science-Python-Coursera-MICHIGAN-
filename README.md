@@ -1,4 +1,4 @@
-# Applied Data Science with Python Specialization
+# Applied Data Science with Python Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/LM74P8XQFHUA)
 
 This repository contains the most recent versions of all projects and peer assessments for the [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) Coursera specialization.
 
