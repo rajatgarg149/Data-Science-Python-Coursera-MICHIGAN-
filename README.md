@@ -2,6 +2,8 @@
 
 This repository contains the most recent versions of all projects and peer assessments for the [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) Coursera specialization.
 
+![](Data Science Certificate)
+
 ### Applied Plotting, Charting & Data Representation in Python
 
 - [Basic Charting](Applied%20Plotting%20Charting/Week2%20-%20Basic%20Charting)
