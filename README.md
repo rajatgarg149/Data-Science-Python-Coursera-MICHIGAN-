@@ -2,7 +2,7 @@
 
 This repository contains the most recent versions of all projects and peer assessments for the [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) Coursera specialization.
 
-### Applied Plotting, Charting & Data Representation in Python
+### [Applied Plotting, Charting & Data Representation in Python](https://github.com/rajatgarg149/Data-Science-Python-Coursera-MICHIGAN-/tree/master/Applied%20Plotting%20Charting)
 
 - [Basic Charting](Applied%20Plotting%20Charting/Week2%20-%20Basic%20Charting)
 
@@ -34,7 +34,7 @@ This repository contains the most recent versions of all projects and peer asses
 
   Projecy to determine whether a given blight ticket (fine) of property maintainance in City of Detroit will be paid on time.
 
-### Applied Text Mining in Python
+### [Applied Text Mining in Python](https://github.com/rajatgarg149/Data-Science-Python-Coursera-MICHIGAN-/tree/master/Applied%20Text%20Mining)
 
 - [Working with Text](Applied%20Text%20Mining/Week1%20-%20Working%20with%20Text%20in%20Python)
 
@@ -52,7 +52,7 @@ This repository contains the most recent versions of all projects and peer asses
 
   Build a Gensim's LDA (Latent Dirichlet Allocation) model to model topics in news data and extract 10 topics.
 
-### Applied Social Network Analysis in Python
+### [Applied Social Network Analysis in Python](https://github.com/rajatgarg149/Data-Science-Python-Coursera-MICHIGAN-/tree/master/Applied%20Social%20Network%20Analysis%20in%20Python)
 
 - [Basics on NetworkX](Applied%20Social%20Network%20Analysis%20in%20Python/Week1%20-%20Basics%20on%20NetworkX)
 
