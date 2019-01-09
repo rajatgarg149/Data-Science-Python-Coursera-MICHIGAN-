@@ -1,4 +1,4 @@
-# Applied Text Mining in Python
+# [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 
 The course start with the basic text manipulations and learn to write [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) and search textual patterns in given the document. In the week 2, the learning of different textual distance metrics helps in building spelling recommender system. The week 3 focuses on application of machine learning algorithms on text data to segregate spam messages. 
 
