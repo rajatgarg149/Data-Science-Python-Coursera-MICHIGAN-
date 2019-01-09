@@ -16,7 +16,7 @@ This repository contains the most recent versions of all projects and peer asses
 
   Project stating a research question and visuals addressing it.
 
-### Applied Machine Learning in Python
+### [Applied Machine Learning in Python](https://github.com/rajatgarg149/Data-Science-Python-Coursera-MICHIGAN-/tree/master/Applied%20Machine%20Learning)
 
 - [Intro to Scikit Learn](Applied%20Machine%20Learning/Week1%20-%20Intro%20to%20SciKit%20Learn)
 
